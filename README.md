@@ -1,6 +1,8 @@
-# Reinforcement Learning PPT 中文翻译
+# Reinforcement Learning Slides 中文翻译
 
 本项目是David Silver的Reinforcement Learning课程课件的中文翻译。
+
+文件编辑使用的是[marp](https://yhatt.github.io/marp/)，其他markdown编辑软件格式可能显示不正确。
 
 课程视频地址：https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-
 
